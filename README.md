@@ -1,6 +1,6 @@
 # Welcome to Office Add-in Developer Tools in Preview
 
-We are pleased to announce the upcoming release of new Office Add-in Developer tools in the near future. These tools are designed to enhance the development process, providing developers with advanced capabilities and streamlined workflows. With these new features, we aim to better support our community in creating Office Add-ins. Stay tuned for further updates as we approach the preview launch.
+We are introducing new Office Add-in Developer tools in the near future. These tools are designed to enhance the development process, providing developers with advanced capabilities and streamlined workflows. With these new features, we aim to better support our community in creating Office Add-ins. Stay tuned for further updates as we approach the preview launch.
 
 ## A new Visual Studio extension to facilitate Office Add-in development
 Through our Visual Studio Code extension for Office Add-in development, developers can easily get started, run, and debug Office Add-ins with our improved tools.
